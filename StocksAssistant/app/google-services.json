@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "807648197652",
+    "firebase_url": "https://stock-batch-job.firebaseio.com",
+    "project_id": "stock-batch-job",
+    "storage_bucket": "stock-batch-job.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807648197652:android:1637b8ea4554ae70",
+        "android_client_info": {
+          "package_name": "com.example.stevenabraham.stocksassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807648197652-nsuaievius7un9gof8gf67lsnpk0bhn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7nmVOdtL7QR-ZScuFi5jmWvOtUITGY-o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

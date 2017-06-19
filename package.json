@@ -1,0 +1,23 @@
+{
+  "name": "stock-analysis",
+  "version": "1.0.0",
+  "description": "Server Side to perform stock analysis and save result to Firebase",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://steven4abraham@bitbucket.org/steven4abraham/stock-analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/steven4abraham/stock-analysis#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "request": "^2.81.0",
+    "sys": "0.0.1",
+    "winston": "^2.3.1"
+  }
+}
